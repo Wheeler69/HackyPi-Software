@@ -6,12 +6,12 @@ HackyPi is a compact and versatile USB device powered by the RP2040 microcontrol
 ## Setup HackyPi
 1. Download and Install Thonny IDE for your respective OS from Link [Download Thonny](https://thonny.org/)
    
-   <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img.JPG" />
+   C" />
    
 2. Adding **CircuitPython** bootloader in HackyPi 
 
      For this first you need to *Press and Hold* the boot button on HackyPi, without releasing the button connect it to USB port of PC/laptop. 
-Then you see a new device named "RPI-RP2" drag file ["firmware.uf2"](https://github.com/sbcshop/HackyPi-Software/blob/main/firmware.uf2) available in this repository to the device as shown in figure, or you can download from Circuitpython official website [click here](https://circuitpython.org/board/raspberry_pi_pico/)
+Then you see a new device named "C" drag file ["firmware.uf2"](https://github.com/sbcshop/HackyPi-Software/blob/main/firmware.uf2) available in this repository to the device as shown in figure, or you can download from Circuitpython official website [click here](https://circuitpython.org/board/raspberry_pi_pico/)
      
      <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" /> 
      <img src= "https://github.com/sbcshop/HackyPi-Software/blob/main/images/HackyPi_bootloader_install.gif" />
